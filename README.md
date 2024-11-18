@@ -11,6 +11,6 @@ El directorio de IA es sponsoreado por [aiselfi.es](https://aiselfi.es).
 ## Listado de herramientas IA:
 
 ### A.
-- [aiselfi.es](https://aiselfi.es)
+- [aiselfi.es](https://aiselfi.es): convierte selfies en fotos profesionales.
 
 ### B.
