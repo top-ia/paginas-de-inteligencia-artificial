@@ -8,3 +8,9 @@ El directorio de IA es sponsoreado por [aiselfi.es](https://aiselfi.es).
 
 [aiselfi.es](https://aiselfi.es) es una app que convierte tus selfies en fotos profesionales. 
 
+## Listado de herramientas IA:
+
+### A.
+- [aiselfi.es](https://aiselfi.es)
+
+### B.
