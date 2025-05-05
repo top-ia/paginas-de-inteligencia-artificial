@@ -34,6 +34,7 @@ El directorio de IA es sponsoreado por [aiselfi.es](https://aiselfi.es).
 - [DeepL](https://www.deepl.com): Traducción automática de alta calidad impulsada por IA.
 - [Grammarly](https://www.grammarly.com): Corrige y mejora tu escritura con IA en tiempo real.
 - [Pictory](https://pictory.ai): Convierte textos o artículos en videos automáticamente.
+- [Tools Para Creators](https://toolsparacreators.com): Todo lo que necesitas para optimizar tu perfil de Creador.
 - [Synthesia](https://www.synthesia.io): Generá videos con avatares parlantes usando solo texto.
 - [Descript](https://www.descript.com): Editá video y audio como si fuera un documento de texto.
 - [Krisp](https://krisp.ai): Cancelación de ruido, transcripciones y notas sin bots para reuniones.
