@@ -12,6 +12,7 @@ El directorio de IA es sponsoreado por [aiselfi.es](https://aiselfi.es).
 
 - [aiselfi.es](https://aiselfi.es): convierte selfies en fotos profesionales.
 - [HeyGen](https://heygen.com/?sid=rewardful&via=appsia): Crea videos personalizados con IA usando avatares realistas.
+- [Clarity](https://clarityai.co/?via=webaleatoria): Mejora imágenes con IA, aumentando su resolución y añadiendo detalles ajustables según tus preferencias.
 - [Leonardo](https://leonardo.ai): Generá imágenes con IA de calidad profesional para arte, diseño y videojuegos.
 - [Midjourney](https://midjourney.com): Explorá la creatividad visual con un generador de imágenes basado en texto.
 - [Stable Diffusion](https://stablediffusionweb.com): Crea imágenes realistas o artísticas con modelos de difusión open source.
