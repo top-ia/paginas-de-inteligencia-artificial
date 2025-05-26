@@ -1,6 +1,6 @@
-# Directorio IA
+# Paginas de Inteligencia Artificial (IA)
 
-Directorio de las mejores herramientas de IA curadas por [@kraayenjon](https://github.com/kraayenjon)
+Directorio con las mejores paginas de Inteligencia Artificial curadas por [@kraayenjon](https://github.com/kraayenjon)
 
 
 ## SPONSOR:
